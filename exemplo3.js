@@ -4,5 +4,5 @@ reais = Number(prompt('Digite quantos reias você possui?'))
 
 dolar = reais / 6
 
-console.log(`Você tem isso aqui em dolar ${dolar.toFixed()}`)
+console.log(`Você tem isso aqui em dolar ${dolar.toFixed(2)}`)
 
