@@ -1,0 +1,18 @@
+// function proximoFibonacci(n1, n2) {
+//     let n3 = n1 + n2;
+//     console.log(n3);
+//     return [n2, n3];
+// }
+
+// function fibonacci() {
+//     let t1 = 0;
+//     console.log(t1);
+//     let t2 = 1;
+//     console.log(t2);
+    
+//     for (let i = 3; i <= 10; i++) {
+//         [t1, t2] = proximoFibonacci(t1, t2);
+//     }
+// }
+
+// fibonacci();
